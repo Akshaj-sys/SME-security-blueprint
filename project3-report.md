@@ -113,24 +113,24 @@
     7. Maintenance and review
 ### Appendices:
   + Quick-reference guides: this mainly includes resources like
-    A. Security reference blueprint for financial services which provides structured approach to securing financial institutions
-    B. Data security and cybersecurity compliance for fintech startups which is a practical guide and covers concepts like regulatory framework, compliance strategies and security best practices
+    1. Security reference blueprint for financial services which provides structured approach to securing financial institutions
+    2. Data security and cybersecurity compliance for fintech startups which is a practical guide and covers concepts like regulatory framework, compliance strategies and security best practices
   + Emergency contacts:
-    A. Cybersecurity incident response team
-    B. Regulatory and compliance authorities
-    C. Cloud and IT infrastructure support
-    D. Legal and crisis communication team
+    1. Cybersecurity incident response team
+    2. Regulatory and compliance authorities
+    3. Cloud and IT infrastructure support
+    4. Legal and crisis communication team
   + Glossary of terms:
-    A. Security Blueprint (A strategic plan that outlines an organization's cybersecurity framework, policies, and safeguards)
-    B. Fintech Startup (A newly established company that leverages technology to innovate and enhance financial services)
-    C. Cluster-Based Lending Platform (A financial platform that facilitates lending by grouping borrowers into clusters, often based on geographical location, industry)
-    D.  API Security Flaws (Vulnerabilities in an application's programming interface (API) that can be exploited by attackers to gain unauthorized access)
-    E.  RFID (Radio-Frequency Identification) (A technology that uses electromagnetic fields to automatically identify and track objects)
-    F.  Digital Forensic Investigation (The process of collecting, analyzing, and preserving digital evidence from electronic devices to investigate cybercrimes)
-    G.  Compliance (The act of adhering to legal, regulatory, or industry-specific standards and requirements)
-    H.  Cyber Incident Simulation (A controlled exercise that replicates real-world cyber threats to assess an organization’s security readiness and response strategy)
-    I.  Quarterly Assessments (Evaluations conducted every three months to measure performance within an organisation)
-    J.  Cloud-Based Systems (Computing environments that store, process, and manage data over the internet rather than on local devices)
+    1. Security Blueprint (A strategic plan that outlines an organization's cybersecurity framework, policies, and safeguards)
+    2. Fintech Startup (A newly established company that leverages technology to innovate and enhance financial services)
+    3. Cluster-Based Lending Platform (A financial platform that facilitates lending by grouping borrowers into clusters, often based on geographical location, industry)
+    4.  API Security Flaws (Vulnerabilities in an application's programming interface (API) that can be exploited by attackers to gain unauthorized access)
+    5.  RFID (Radio-Frequency Identification) (A technology that uses electromagnetic fields to automatically identify and track objects)
+    6.  Digital Forensic Investigation (The process of collecting, analyzing, and preserving digital evidence from electronic devices to investigate cybercrimes)
+    7.  Compliance (The act of adhering to legal, regulatory, or industry-specific standards and requirements)
+    8.  Cyber Incident Simulation (A controlled exercise that replicates real-world cyber threats to assess an organization’s security readiness and response strategy)
+    9.  Quarterly Assessments (Evaluations conducted every three months to measure performance within an organisation)
+    10.  Cloud-Based Systems (Computing environments that store, process, and manage data over the internet rather than on local devices)
 
 ## 9. Presentation
 
