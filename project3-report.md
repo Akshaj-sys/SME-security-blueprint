@@ -102,7 +102,7 @@
 
 ## 7. Maintenance and Review
 
-* **Review Schedule:**
+### Review Schedule:
 * Conducting quarterly assessments for physical security systems and physical barriers to ensure their proper functionality
 * Perform monthly audits for cybersecurity systems and network vulnerabilities
 ### Maintenance Routines:
