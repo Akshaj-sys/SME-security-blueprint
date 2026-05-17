@@ -25,19 +25,25 @@
 ## 3. Physical Security Measures
 
 ### Office Layout Design:
-  + Surveillance areas: CCTV cameras in entry and exit points
+  + Surveillance areas:
+* CCTV cameras in entry and exit points
 * Monitoring of high-risk zones like workspaces and IT infrastructure areas
-  + Access control points: Main entrance with biometric authentication for employees
+  + Access control points:
+* Main entrance with biometric authentication for employees
 * Restricted areas such as server rooms, business and finance departments and executive offices having multifactor authentication
-  + Safe zones: Emergency exits in case of security threats
+  + Safe zones:
+    - Emergency exits in case of security threats
     - Secure storage for sensitive documents
     - Panic rooms or safe spaces for employees during emergencies
 ### Physical Barriers and Systems:
-  + Type of barriers: Physical barriers such as fencing and controlled entry points to prevent unauthorized access
+  + Type of barriers:
+    - Physical barriers such as fencing and controlled entry points to prevent unauthorized access
     - Secure entrances with proper control access
-  + Security systems (alarms, cameras): CCTV surveillance cameras which cover entry points, corridors, workspaces and server rooms
+  + Security systems (alarms, cameras):
+    - CCTV surveillance cameras which cover entry points, corridors, workspaces and server rooms
     - Emergency alarms such as fire alarms, intrusion detection systems and panic buttons in high risk zones
-  + Access control mechanisms: employees having access only to certain places based on their roles
+  + Access control mechanisms:
+    - employees having access only to certain places based on their roles
     - RFID based access for finance and IT departments
 ### Visitor and Employee Access Policies:
   + All the visitors must register at the reception and should be accompanied within premises by an authorized employee
@@ -58,25 +64,29 @@
 ## 5. Monitoring and Response Plans
 
 ### Monitoring Systems:
-  + Physical security: 24/7 CCTV surveillance cameras at entry points and protected areas
+  + Physical security:
+    - 24/7 CCTV surveillance cameras at entry points and protected areas
     - Intrusion detection for unauthorized access using motion sensors and alarm systems
-  + Cybersecurity: Using tools like SIEM for real time monitoring of network traffic and system logs.
+  + Cybersecurity:
+    - Using tools like SIEM for real time monitoring of network traffic and system logs.
     - Ensuring endpoint security by installing antivirus software and firewall protection on employee devices and office equipments
 ### Incident Response Plan:
-  + Physical breach: Take immediate action by activating emergency alarm system and notifying security personnel as well as other employees
+  + Physical breach:
+    - Take immediate action by activating emergency alarm system and notifying security personnel as well as other employees
     - Secure the affected areas and prevent any unauthorized action in those areas
     - Review CCTV footage and log books and records to find the main culprit behind this breach
-  + Cyber breach: identify the threat by detecting the affected systems and categorize the breach
+  + Cyber breach:
+    - identify the threat by detecting the affected systems and categorize the breach
     - Temporarily disable compromised accounts, apply security methods and restore the data through backups
     - Post incident analysis conduct digital forensic investigation and update cybersecurity protocols
-* **Communication Plan:** Automate internal alert systems such as emails/ SMS alerts for urgent security threats
+* **Communication Plan:**
+* Automate internal alert systems such as emails/ SMS alerts for urgent security threats
 * Have dedicated security personnels or crisis handling teams to handle such physical and cyber incidents
 * Have compliance with data protection laws and proper communication with the customers who have been affected by such incidents
 
 ## 6. Education and Training
 
 ### Security Awareness Training:
-  + **Topics:**
   + Cyber hygiene which includes best practises for password management, and phishing detection
   + Data protection which involves handling sensitive financial information securely
   + Physical security aspects under which we have access control policies, visitor management rules and incident reporting
@@ -84,7 +94,6 @@
   + General awareness training is conducted quarterly for all employees
   + Advanced security training is conducted for IT and finance teams once in every year
 ### Drills and Exercises:
-  + **Types:**
   + Physical security drills which involves emergency evacuation practises in case of fire or security breach
   + Cyber incident simulation which educates us about cyber incidents through phishing attack scenarios and real time cyberattack response exercises
   + **Schedule:** Fire safety and intrusion response drills are conducted in every 6 months
@@ -92,7 +101,8 @@
 
 ## 7. Maintenance and Review
 
-* **Review Schedule:** Conducting quarterly assessments for physical security systems and physical barriers to ensure their proper functionality
+* **Review Schedule:**
+* Conducting quarterly assessments for physical security systems and physical barriers to ensure their proper functionality
 * Perform monthly audits for cybersecurity systems and network vulnerabilities
 ### Maintenance Routines:
   + Physical security systems: Regular inspection of CCTV cameras, biometric sensors and ID verification tools to prevent hardware failure
@@ -103,7 +113,7 @@
 ## 8. Documentation
 
 ### Blueprint Document:
-  + Sections included:
+  + topics included
     1. Scope of the project
     2. Risk assessment
     3. Physical security measures
@@ -112,7 +122,7 @@
     6. Education and training
     7. Maintenance and review
 ### Appendices:
-  + Quick-reference guides: this mainly includes resources like
+  + Quick-reference guides: 
     1. Security reference blueprint for financial services which provides structured approach to securing financial institutions
     2. Data security and cybersecurity compliance for fintech startups which is a practical guide and covers concepts like regulatory framework, compliance strategies and security best practices
   + Emergency contacts:
