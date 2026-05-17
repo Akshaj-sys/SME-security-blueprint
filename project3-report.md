@@ -19,8 +19,8 @@
    + Physical: Weak access controls, unpatched systems and insider threats
    + Cyber: API security flaws, weak encryption and bias in AI models
 ### Potential Impacts:
-    + Physical: Operational disruption, system downtime and security breach
-    + Digital: Unauthorized transaction, identity theft and inaccurate lending decisions
+   + Physical: Operational disruption, system downtime and security breach
+   + Digital: Unauthorized transaction, identity theft and inaccurate lending decisions
 
 ## 3. Physical Security Measures
 
@@ -43,7 +43,7 @@
     - CCTV surveillance cameras which cover entry points, corridors, workspaces and server rooms
     - Emergency alarms such as fire alarms, intrusion detection systems and panic buttons in high risk zones
   + Access control mechanisms:
-    - employees having access only to certain places based on their roles
+    - Employees having access only to certain places based on their roles
     - RFID based access for finance and IT departments
 ### Visitor and Employee Access Policies:
   + All the visitors must register at the reception and should be accompanied within premises by an authorized employee
@@ -80,6 +80,7 @@
     - Temporarily disable compromised accounts, apply security methods and restore the data through backups
     - Post incident analysis conduct digital forensic investigation and update cybersecurity protocols
 ### Communication Plan:
+  + Communication with other teams 
     - Automate internal alert systems such as emails/ SMS alerts for urgent security threats
     - Have dedicated security personnels or crisis handling teams to handle such physical and cyber incidents
     - Have compliance with data protection laws and proper communication with the customers who have been affected by such incidents
@@ -114,6 +115,7 @@
 ## 8. Documentation
 
 ### Blueprint Document:
++ Topics innvolved:
     1. Scope of the project
     2. Risk assessment
     3. Physical security measures
@@ -140,7 +142,7 @@
     7.  Compliance: The act of adhering to legal, regulatory, or industry-specific standards and requirements
     8.  Cyber Incident Simulation: A controlled exercise that replicates real-world cyber threats to assess an organization’s security readiness and response strategy
     9.  Quarterly Assessments: Evaluations conducted every three months to measure performance within an organisation
-    10.  Cloud-Based Systems: Computing environments that store, process, and manage data over the internet rather than on local devices
+    10. Cloud-Based Systems: Computing environments that store, process, and manage data over the internet rather than on local devices
 
 ## 9. Presentation
 
