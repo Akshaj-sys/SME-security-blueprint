@@ -26,11 +26,11 @@
 
 ### Office Layout Design:
   + Surveillance areas:
-   - CCTV cameras in entry and exit points
-   - Monitoring of high-risk zones like workspaces and IT infrastructure areas
+    - CCTV cameras in entry and exit points
+    - Monitoring of high-risk zones like workspaces and IT infrastructure areas
   + Access control points:
-   - Main entrance with biometric authentication for employees
-   - Restricted areas such as server rooms, business and finance departments and executive offices having multifactor authentication
+    - Main entrance with biometric authentication for employees
+    - Restricted areas such as server rooms, business and finance departments and executive offices having multifactor authentication
   + Safe zones:
     - Emergency exits in case of security threats
     - Secure storage for sensitive documents
@@ -103,11 +103,11 @@
 ## 7. Maintenance and Review
 
 ### Review Schedule:
-* Conducting quarterly assessments for physical security systems and physical barriers to ensure their proper functionality
-* Perform monthly audits for cybersecurity systems and network vulnerabilities
+  + Conducting quarterly assessments for physical security systems and physical barriers to ensure their proper functionality
+  + Perform monthly audits for cybersecurity systems and network vulnerabilities
 ### Maintenance Routines:
   + Physical security systems: Regular inspection of CCTV cameras, biometric sensors and ID verification tools to prevent hardware failure
-**Cybersecurity systems:**
+### Cybersecurity systems:
   + Ensuring all security software and cloud-based systems are updated regularly to mitigate emerging threats
   + Conduct quarterly audits of user permission to revoke unnecessary access
 
