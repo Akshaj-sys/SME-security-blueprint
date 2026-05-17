@@ -26,11 +26,11 @@
 
 ### Office Layout Design:
   + Surveillance areas:
-* CCTV cameras in entry and exit points
-* Monitoring of high-risk zones like workspaces and IT infrastructure areas
+   - CCTV cameras in entry and exit points
+   - Monitoring of high-risk zones like workspaces and IT infrastructure areas
   + Access control points:
-* Main entrance with biometric authentication for employees
-* Restricted areas such as server rooms, business and finance departments and executive offices having multifactor authentication
+   - Main entrance with biometric authentication for employees
+   - Restricted areas such as server rooms, business and finance departments and executive offices having multifactor authentication
   + Safe zones:
     - Emergency exits in case of security threats
     - Secure storage for sensitive documents
@@ -79,10 +79,10 @@
     - identify the threat by detecting the affected systems and categorize the breach
     - Temporarily disable compromised accounts, apply security methods and restore the data through backups
     - Post incident analysis conduct digital forensic investigation and update cybersecurity protocols
-* **Communication Plan:**
-* Automate internal alert systems such as emails/ SMS alerts for urgent security threats
-* Have dedicated security personnels or crisis handling teams to handle such physical and cyber incidents
-* Have compliance with data protection laws and proper communication with the customers who have been affected by such incidents
+### Communication Plan:
+    - Automate internal alert systems such as emails/ SMS alerts for urgent security threats
+    - Have dedicated security personnels or crisis handling teams to handle such physical and cyber incidents
+    - Have compliance with data protection laws and proper communication with the customers who have been affected by such incidents
 
 ## 6. Education and Training
 
@@ -90,13 +90,14 @@
   + Cyber hygiene which includes best practises for password management, and phishing detection
   + Data protection which involves handling sensitive financial information securely
   + Physical security aspects under which we have access control policies, visitor management rules and incident reporting
-  + **Frequency:**
+ **Frequency:**
   + General awareness training is conducted quarterly for all employees
   + Advanced security training is conducted for IT and finance teams once in every year
 ### Drills and Exercises:
   + Physical security drills which involves emergency evacuation practises in case of fire or security breach
   + Cyber incident simulation which educates us about cyber incidents through phishing attack scenarios and real time cyberattack response exercises
-  + **Schedule:** Fire safety and intrusion response drills are conducted in every 6 months
+**Schedule:**
+  + Fire safety and intrusion response drills are conducted in every 6 months
   + Live threat simulations to test response readiness and other cybersecurity exercises are conducted in every 6 months
 
 ## 7. Maintenance and Review
@@ -106,14 +107,13 @@
 * Perform monthly audits for cybersecurity systems and network vulnerabilities
 ### Maintenance Routines:
   + Physical security systems: Regular inspection of CCTV cameras, biometric sensors and ID verification tools to prevent hardware failure
-  + Cybersecurity systems:
+**Cybersecurity systems:**
   + Ensuring all security software and cloud-based systems are updated regularly to mitigate emerging threats
   + Conduct quarterly audits of user permission to revoke unnecessary access
 
 ## 8. Documentation
 
 ### Blueprint Document:
-  + topics included
     1. Scope of the project
     2. Risk assessment
     3. Physical security measures
@@ -158,9 +158,9 @@
   + Incident response plans for cyber breach which involves conducting digital forensics investigation after analysis of the incident
   + Security awareness training programs which are conducted quarterly for employees and once in every year for IT and finance teams
   + This program involves topics such as cyber hygiene, data protection and physical security aspects as well as physical security drills and cyber incident simulation
-* **Intended Audience:**
+**Intended Audience:**
 Cybersecurity team of the organization, employees, banking partners, regulatory authorities, third party vendors and service providers
-* **Presentation Medium:**
+**Presentation Medium:**
 Word document, PowerPoint presentation and a video explaining these concepts
 
 ## 10. Reflection
